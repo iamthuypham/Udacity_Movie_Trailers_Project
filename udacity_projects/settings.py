@@ -25,7 +25,7 @@ SECRET_KEY = '+0c5%^^d7z11a9tyr0i05lq#iui&z*v6^yx!-(q7ze%)(k9bn%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['udacity-movie-trailers.herokuapp.com']
 
 
 # Application definition
