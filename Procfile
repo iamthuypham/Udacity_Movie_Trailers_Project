@@ -1,1 +1,1 @@
-web: gunicorn udacity_projects.wsgi
+web: gunicorn udacity_projects.wsgi --log-file -
